@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/marrow00/shoppingList#readme",
   "devDependencies": {
-    "electron": "^11.5.0",
+    "electron": "^13.6.6",
     "electron-packager": "^13.1.1"
   }
 }
